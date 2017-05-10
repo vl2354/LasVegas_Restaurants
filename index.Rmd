@@ -15,7 +15,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 ## Project
-**The Strip or Downtown? – Comparative Analysis of Restaurants in Old and New Las Vegas**
+**The Strip or Downtown? Comparative Analysis of Restaurants in Old and New Las Vegas**
 <img src="http://www.lasvegas.com/includes/content/images/media/images/LV_Strip_Master_Map.jpg">
 <a href="http://www.lasvegas.com/planning-tools/las-vegas-strip-map/">[The Strip vs Downtown Las Vegas Map]</a>
 

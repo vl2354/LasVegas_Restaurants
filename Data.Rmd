@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Data Overview
 
-We used <a href=https://www.yelp.com/dataset_challenge>Yelp’s academic dataset</a>, provided for Yelp Dataset Challenge - Round 9 and <a href="https://www.zillow.com/howto/api/neighborhood-boundaries.htm">Zillow Nevada Neighborhood Boundaries Shape File</a>. 
+We used <a href=https://www.yelp.com/dataset_challenge> Yelp’s academic dataset</a>, provided for Yelp Dataset Challenge - Round 9 and <a href="https://www.zillow.com/howto/api/neighborhood-boundaries.htm">Zillow Nevada Neighborhood Boundaries Shape File</a>. 
 
 ###Yelp Data Description
 - Geogrphic Coverage: 4 countries (US, UK, Germany, Canada) and 15 cities 
